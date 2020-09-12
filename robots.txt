@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dikshantyadav19.github.io/sitemap.xml
+Host: https://dikshantyadav19.github.io
